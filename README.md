@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**MaximMaltsev94/MaximMaltsev94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there! My name is Maksim and I am software engineer.
+I use Arch, btw.
 
-Here are some ideas to get you started:
+## 📟 Lets connect
+[[ Telegram ]](https://t.me/mmaltsau) · [[ Linkedin ]](https://linkedin.com/in/mmaltsau) · [[ Instagram ]](https://instagram.com/mmaltsau)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐱‍💻 Technologies I work with
+|Languages|Tools and frameworks|Databases|Infra & Devops|
+|:-------:|:------------------:|:-------:|:------------:|
+|[![My Skills](https://skillicons.dev/icons?i=java,python,bash,&perline=1)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=spring,kafka&perline=1)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,elasticsearch&perline=1)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=aws,jenkins&perline=1)](https://skillicons.dev)|
+
+## 🐈‍⬛ Technologies I curious about
+
+[![My Skills](https://skillicons.dev/icons?i=go,typescript,react,kotlin,unreal)](https://skillicons.dev)
+
+## 🏎️ My daily drivers
+
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,idea,neovim,vim)](https://skillicons.dev)
+
