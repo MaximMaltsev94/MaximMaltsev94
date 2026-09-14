@@ -1,9 +1,16 @@
 
 ## 👋 Hi there! My name is Maksim and I am software engineer.
-I use Arch, btw.
+Writing code is the most joyful part of my daily routine as a software engineer. Someday, AI might completely take over this aspect of my job... but I’ll keep coding manually in my 
+free time for my own enjoyment.
+
+P.S. I use Arch, btw.
 
 ## 📟 Lets connect
+<div align="center">
+  
 [[ Telegram ]](https://t.me/mmaltsau) · [[ Linkedin ]](https://linkedin.com/in/mmaltsau) · [[ Instagram ]](https://instagram.com/mmaltsau)
+
+</div>
 
 ## 🐱‍💻 Technologies I work with
 |Languages|Tools and frameworks|Databases|Infra & Devops|
