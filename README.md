@@ -4,18 +4,19 @@
 <table border="0">
   <tr>
     <td>
-        <img src="./assets/sad-cat.jpg" width="300">
-    </td>
-    <td>
         <p> Writing code is the most joyful part of my daily routine as a software engineer. </p>
         <p>Someday, AI might completely take over this aspect of my job... but I’ll keep coding manually in my
         free time for my own enjoyment. </p>
     </td>
+    <td>
+        <img src="./assets/sad-cat.jpg" width="300">
+    </td>
   </tr>
 </table>
 
-
+<p align="right">
 P.S. I use Arch, btw.
+</p>
 
 ## 📟 Lets connect
 
