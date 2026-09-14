@@ -28,17 +28,29 @@ P.S. I use Arch, btw.
 
 ## 🐱‍💻 Technologies I work with
 
+<div align="center">
+
 |                                             Languages                                              |                                     Tools and frameworks                                      |                                                        Databases                                                         |                                        Infra & Devops                                        |
 |:--------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
 | [![My Skills](https://skillicons.dev/icons?i=java,python,bash,&perline=1)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,kafka&perline=1)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,elasticsearch&perline=1)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=aws,jenkins&perline=1)](https://skillicons.dev) |
 
+</div>
+
 ## 🐈‍⬛ Technologies I curious about
 
+<div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=go,typescript,react,kotlin,unreal)](https://skillicons.dev)
+
+</div>
 
 ## 🏎️ My daily drivers
 
+<div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=arch,linux,idea,neovim,vim)](https://skillicons.dev)
+
+</div>
 
 <div align="center">
 
