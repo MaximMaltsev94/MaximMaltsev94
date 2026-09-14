@@ -18,3 +18,30 @@ I use Arch, btw.
 
 [![My Skills](https://skillicons.dev/icons?i=arch,linux,idea,neovim,vim)](https://skillicons.dev)
 
+<div align="center">
+  
+```
+                   -`                     
+                  .o+`                   
+                 `ooo/                    
+                `+oooo:                  
+               `+oooooo:                 
+               -+oooooo+:                 
+             `/:-:++oooo+:               
+            `/++++/+++++++:              
+           `/++++++++++++++:             
+          `/+++ooooooooooooo/`           
+         ./ooosssso++osssssso+`          
+        .oossssso-````/ossssss+`         
+       -osssssso.      :ssssssso.        
+      :osssssss/        osssso+++.        
+     /ossssssss/        +ssssooo/-       
+   `/ossssso+/:-        -:/+osssso+-     
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `-/+/
+ .`                                 `/    
+                                         
+
+```
+
+</div>
